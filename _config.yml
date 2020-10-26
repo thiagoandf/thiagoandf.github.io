@@ -19,15 +19,16 @@ linkedin_username: thiagoandf
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello there! My name is Thiago de Andrade and I'm a Full Stack developer. In this page I'll tell you a little bit about my experience over the years.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I'm currently working for [QI Tech](https://qitech.com.br), a brazillian financial institution with the goal to bring the "bank-as-a-service" model to Brazil. My role is to maintain and develop the company's platfroms as well as overlook the front-end area of the company.
+  
+  My whole carreer was based around front-end development, using <mark>React</mark> to bring concepts to life. Recently I started experimenting a bit with back-end development using <mark>Python</mark> and <mark>Node.js</mark>.
 
-# Projects Section
-# projects_title: Projects
+  I love being challenged and am extremely attentive to details. I trully believe the moment we stop learning we lose our humanity, so I'm always trying out new things and improving myself.
 
 # Experience Section
-# experience_title: Experience
+# experience_title: Work Experience
 
 # Education Section
 # educaton_title: Education
@@ -35,11 +36,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Cooking
+   - Aviation and Space Exploration
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Formula One
+   - Science, Futurism, Music, Travelling...
 
 # Footer
 footer_show_references: true
