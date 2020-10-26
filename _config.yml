@@ -1,24 +1,19 @@
 # Site
-repository: sproogen/resume-theme
+repository: thiagoandf/thiagoandf.github.io
 favicon: images/favicon.ico
 
+darkmode: true
+
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Thiago de Andrade Feliciano
+title: Full Stack Developer
+email: thiagoandf@gmail.com
+website: https://thiago.page
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+twitter_username: thiagoandf
+github_username: thiagoandf
+linkedin_username: thiagoandf
 
 # About Section
 # about_title: About Me
