@@ -1,10 +1,10 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+  name: Escola Superior de Propaganda e Marketing (ESPM)
+  location: São Paulo, SP, Brazil
+  dates: 2015 - 2018
+  qualification: BSc Computer Science (with focus on marketing and administration)
+  description: |
+    During my time at ESPM I was able to learn and improve a several of my soft skills such as communication and teamwork. Because of the several group projects and initiatives I was part of, I became a more outgoing and less shy person. 
+    At the sime time, I ended up falling in love with development and design, starting my carreer as a full-stack developer.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    One of the greatest honors I had while studying there was to be summoned to participate in the ICPC ACM International Collegiate Programming Contest. Our performance in the first stage allowed us to go to the Latin America finals. This was the first time any group from my course as well as my College was classified for the finals.
